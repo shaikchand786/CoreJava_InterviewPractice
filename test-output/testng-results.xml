@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-12T15:53:34 IST" name="Default suite" finished-at="2024-04-12T15:53:34 IST" duration-ms="140">
+    <groups>
+    </groups>
+    <test started-at="2024-04-12T15:53:34 IST" name="Default test" finished-at="2024-04-12T15:53:34 IST" duration-ms="140">
+      <class name="test1">
+        <test-method signature="chand()[pri:0, instance:test1@402bba4f]" started-at="2024-04-12T15:53:34 IST" name="chand" finished-at="2024-04-12T15:53:34 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chand -->
+        <test-method signature="nazira()[pri:0, instance:test1@402bba4f]" started-at="2024-04-12T15:53:34 IST" name="nazira" finished-at="2024-04-12T15:53:34 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nazira -->
+      </class> <!-- test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
