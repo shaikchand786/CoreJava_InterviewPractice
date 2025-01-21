@@ -16,9 +16,7 @@ public class Interview12_removeDup {
 	// Main driver method
 	public static void main(String[] args)
 	{
-		// Input : Today is a good day
-		// Output : Tisg
-		
+		// Input : Today is a good day	
 		        String str = "Today is a good day";
 //		        List<String> s = Arrays.asList(str);
 //		        System.out.println(s);
@@ -36,3 +34,4 @@ public class Interview12_removeDup {
 		
 	}
 }
+//Output : Tisg
